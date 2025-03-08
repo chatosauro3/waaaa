@@ -29,5 +29,11 @@
     },
     "done": true
   },
+  "tombstone:adventure/cancel_ghostly_shape": {
+    "criteria": {
+      "coded_trigger": "2025-03-08 22:52:21 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
